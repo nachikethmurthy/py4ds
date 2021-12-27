@@ -1,0 +1,9 @@
+1. Download from Github repo - https://github.com/nachikethmurthy/py4ds  (Download code & select Zip)
+2. Extract to local system to path - C:\Users\<User-Name>\
+3. Launch Anaconda Prompt
+4. Goto the extracted folder -->
+	Give the command in Anaconda prompt:
+	cd C:\Users\<User-Name>\py4ds-main
+
+5. cd CommandLine
+6. Start Executing Python scripts
