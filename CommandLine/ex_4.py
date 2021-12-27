@@ -11,7 +11,7 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description="Greeting the User")
     parser.add_argument("name",help="Name of User")
-    parser.add_argument("--greet", help="Greeting Word")
+    parser.add_argument("--greet", help="Greeting Word") # -- : optional argument
 
     args = parser.parse_args() # parse the arguments
     if len(args.name) > 0:
